@@ -1,0 +1,11 @@
+{
+  "sampleCount": 8424,
+  "analysisDimensions": 7,
+  "priorityIssues": 3,
+  "actionCount": 1,
+  "analysisWindow": {
+    "start": "2020-08",
+    "end": "2026-02"
+  },
+  "projectName": "比亚迪汉口碑分析"
+}

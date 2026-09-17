@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "aspect": "space",
+      "aspectCn": "空间",
+      "performance": 0.777641067497925,
+      "importance": 0.4551740405053479,
+      "quadrant": "Q4",
+      "quadrantName": "过度投入区",
+      "action": "可考虑适当调整资源配置，将过度投入的资源转移到重点改进区",
+      "priorityScore": 0.10121201374942537,
+      "priorityRank": 5
+    },
+    {
+      "aspect": "driving",
+      "aspectCn": "驾驶感受",
+      "performance": 0.7118612064637917,
+      "importance": 0.7171053291918464,
+      "quadrant": "Q1",
+      "quadrantName": "优势保持区",
+      "action": "继续保持现有水平，作为品牌竞争优势进行宣传",
+      "priorityScore": 0.20662586439172412,
+      "priorityRank": 4
+    },
+    {
+      "aspect": "range",
+      "aspectCn": "续航",
+      "performance": 0.284642360283179,
+      "importance": 0.6962122071947912,
+      "quadrant": "Q2",
+      "quadrantName": "重点改进区",
+      "action": "【紧急】需要重点投入资源改进，这些维度对用户满意度影响大但表现差",
+      "priorityScore": 0.49804072128090415,
+      "priorityRank": 2
+    },
+    {
+      "aspect": "appearance",
+      "aspectCn": "外观",
+      "performance": 0.9956212878795668,
+      "importance": 0.0275492071801214,
+      "quadrant": "Q4",
+      "quadrantName": "过度投入区",
+      "action": "可考虑适当调整资源配置，将过度投入的资源转移到重点改进区",
+      "priorityScore": 0.00012063004738792209,
+      "priorityRank": 6
+    },
+    {
+      "aspect": "interior",
+      "aspectCn": "内饰",
+      "performance": 0.2551433925721413,
+      "importance": 1.0,
+      "quadrant": "Q2",
+      "quadrantName": "重点改进区",
+      "action": "【紧急】需要重点投入资源改进，这些维度对用户满意度影响大但表现差",
+      "priorityScore": 0.7448566074278586,
+      "priorityRank": 1
+    },
+    {
+      "aspect": "value",
+      "aspectCn": "性价比",
+      "performance": 0.3384656151858585,
+      "importance": 0.6418906111627124,
+      "quadrant": "Q2",
+      "quadrantName": "重点改进区",
+      "action": "【紧急】需要重点投入资源改进，这些维度对用户满意度影响大但表现差",
+      "priorityScore": 0.4246327105734983,
+      "priorityRank": 3
+    },
+    {
+      "aspect": "smart",
+      "aspectCn": "智能化",
+      "performance": 0.7378223230580512,
+      "importance": 0.0,
+      "quadrant": "Q4",
+      "quadrantName": "过度投入区",
+      "action": "可考虑适当调整资源配置，将过度投入的资源转移到重点改进区",
+      "priorityScore": 0.0,
+      "priorityRank": 7
+    }
+  ],
+  "quadrantDefinitions": {
+    "Q1": {
+      "name": "优势保持区",
+      "description": "高重要性+高表现，保持并宣传",
+      "color": "#10b981"
+    },
+    "Q2": {
+      "name": "重点改进区",
+      "description": "高重要性+低表现，紧急投入改进",
+      "color": "#ef4444"
+    },
+    "Q3": {
+      "name": "低优先区",
+      "description": "低重要性+低表现，暂不处理",
+      "color": "#64748b"
+    },
+    "Q4": {
+      "name": "过度投入区",
+      "description": "低重要性+高表现，调整资源",
+      "color": "#f59e0b"
+    }
+  }
+}

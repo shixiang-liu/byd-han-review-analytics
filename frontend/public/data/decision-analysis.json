@@ -1,0 +1,255 @@
+{
+  "ipaMatrix": [
+    {
+      "aspect": "space",
+      "aspectCn": "空间",
+      "performance": 0.7776,
+      "importance": 0.4552,
+      "quadrant": "Q4",
+      "quadrantName": "过度投入区",
+      "action": "可考虑适当调整资源配置，将过度投入的资源转移到重点改进区",
+      "priorityScore": 0.1012,
+      "priorityRank": 5
+    },
+    {
+      "aspect": "driving",
+      "aspectCn": "驾驶感受",
+      "performance": 0.7119,
+      "importance": 0.7171,
+      "quadrant": "Q1",
+      "quadrantName": "优势保持区",
+      "action": "继续保持现有水平，作为品牌竞争优势进行宣传",
+      "priorityScore": 0.2066,
+      "priorityRank": 4
+    },
+    {
+      "aspect": "range",
+      "aspectCn": "续航",
+      "performance": 0.2846,
+      "importance": 0.6962,
+      "quadrant": "Q2",
+      "quadrantName": "重点改进区",
+      "action": "【紧急】需要重点投入资源改进，这些维度对用户满意度影响大但表现差",
+      "priorityScore": 0.498,
+      "priorityRank": 2
+    },
+    {
+      "aspect": "appearance",
+      "aspectCn": "外观",
+      "performance": 0.9956,
+      "importance": 0.0275,
+      "quadrant": "Q4",
+      "quadrantName": "过度投入区",
+      "action": "可考虑适当调整资源配置，将过度投入的资源转移到重点改进区",
+      "priorityScore": 0.0001,
+      "priorityRank": 6
+    },
+    {
+      "aspect": "interior",
+      "aspectCn": "内饰",
+      "performance": 0.2551,
+      "importance": 1.0,
+      "quadrant": "Q2",
+      "quadrantName": "重点改进区",
+      "action": "【紧急】需要重点投入资源改进，这些维度对用户满意度影响大但表现差",
+      "priorityScore": 0.7449,
+      "priorityRank": 1
+    },
+    {
+      "aspect": "value",
+      "aspectCn": "性价比",
+      "performance": 0.3385,
+      "importance": 0.6419,
+      "quadrant": "Q2",
+      "quadrantName": "重点改进区",
+      "action": "【紧急】需要重点投入资源改进，这些维度对用户满意度影响大但表现差",
+      "priorityScore": 0.4246,
+      "priorityRank": 3
+    },
+    {
+      "aspect": "smart",
+      "aspectCn": "智能化",
+      "performance": 0.7378,
+      "importance": 0.0,
+      "quadrant": "Q4",
+      "quadrantName": "过度投入区",
+      "action": "可考虑适当调整资源配置，将过度投入的资源转移到重点改进区",
+      "priorityScore": 0.0,
+      "priorityRank": 7
+    }
+  ],
+  "causalEffects": [
+    {
+      "aspect": "interior",
+      "aspectCn": "内饰",
+      "theta": 0.140268,
+      "ciLower": 0.139028,
+      "ciUpper": 0.141508,
+      "nUsed": 5838
+    },
+    {
+      "aspect": "driving",
+      "aspectCn": "驾驶感受",
+      "theta": 0.140239,
+      "ciLower": 0.1388,
+      "ciUpper": 0.141677,
+      "nUsed": 5838
+    },
+    {
+      "aspect": "space",
+      "aspectCn": "空间",
+      "theta": 0.139256,
+      "ciLower": 0.137832,
+      "ciUpper": 0.140681,
+      "nUsed": 5838
+    },
+    {
+      "aspect": "value",
+      "aspectCn": "性价比",
+      "theta": 0.138481,
+      "ciLower": 0.136985,
+      "ciUpper": 0.139977,
+      "nUsed": 5838
+    },
+    {
+      "aspect": "range",
+      "aspectCn": "续航",
+      "theta": 0.134267,
+      "ciLower": 0.132754,
+      "ciUpper": 0.135779,
+      "nUsed": 5838
+    },
+    {
+      "aspect": "smart",
+      "aspectCn": "智能化",
+      "theta": 0.133254,
+      "ciLower": 0.131751,
+      "ciUpper": 0.134757,
+      "nUsed": 5838
+    },
+    {
+      "aspect": "appearance",
+      "aspectCn": "外观",
+      "theta": 0.129462,
+      "ciLower": 0.127487,
+      "ciUpper": 0.131437,
+      "nUsed": 5838
+    }
+  ],
+  "penaltyReward": [
+    {
+      "aspect": "space",
+      "classification": "Hygiene (基础型)",
+      "penaltyWeight": 0.626332,
+      "rewardWeight": 0.0,
+      "performance": 4.8157,
+      "doi": 0.0
+    },
+    {
+      "aspect": "driving",
+      "classification": "Hygiene (基础型)",
+      "penaltyWeight": 0.779819,
+      "rewardWeight": 0.0,
+      "performance": 4.7601,
+      "doi": 0.0
+    },
+    {
+      "aspect": "range",
+      "classification": "Hygiene (基础型)",
+      "penaltyWeight": 0.528103,
+      "rewardWeight": 0.0,
+      "performance": 4.7937,
+      "doi": 0.0
+    },
+    {
+      "aspect": "appearance",
+      "classification": "Hygiene (基础型)",
+      "penaltyWeight": 0.477688,
+      "rewardWeight": 0.0,
+      "performance": 4.896,
+      "doi": 0.0
+    },
+    {
+      "aspect": "interior",
+      "classification": "Hygiene (基础型)",
+      "penaltyWeight": 0.856075,
+      "rewardWeight": 0.0,
+      "performance": 4.66,
+      "doi": 0.0
+    },
+    {
+      "aspect": "value",
+      "classification": "Hygiene (基础型)",
+      "penaltyWeight": 0.613958,
+      "rewardWeight": 0.0,
+      "performance": 4.8006,
+      "doi": 0.0
+    },
+    {
+      "aspect": "smart",
+      "classification": "Hygiene (基础型)",
+      "penaltyWeight": 0.531229,
+      "rewardWeight": 0.0,
+      "performance": 4.8306,
+      "doi": 0.0
+    }
+  ],
+  "innovationPriority": [
+    {
+      "aspect": "space",
+      "importance": 0.139256,
+      "performance": 4.8157,
+      "innovationZ": 0.012039,
+      "expectRate": 0.037563,
+      "negRate": 0.030099
+    },
+    {
+      "aspect": "driving",
+      "importance": 0.140239,
+      "performance": 4.7601,
+      "innovationZ": 0.016989,
+      "expectRate": 0.03606,
+      "negRate": 0.042473
+    },
+    {
+      "aspect": "range",
+      "importance": 0.134267,
+      "performance": 4.7937,
+      "innovationZ": 0.009317,
+      "expectRate": 0.069635,
+      "negRate": 0.023292
+    },
+    {
+      "aspect": "appearance",
+      "importance": 0.129462,
+      "performance": 4.896,
+      "innovationZ": 0.004524,
+      "expectRate": 0.028754,
+      "negRate": 0.011309
+    },
+    {
+      "aspect": "interior",
+      "importance": 0.140268,
+      "performance": 4.66,
+      "innovationZ": 0.012737,
+      "expectRate": 0.043782,
+      "negRate": 0.031842
+    },
+    {
+      "aspect": "value",
+      "importance": 0.138481,
+      "performance": 4.8006,
+      "innovationZ": 0.013454,
+      "expectRate": 0.082759,
+      "negRate": 0.033636
+    },
+    {
+      "aspect": "smart",
+      "importance": 0.133254,
+      "performance": 4.8306,
+      "innovationZ": 0.006563,
+      "expectRate": 0.038991,
+      "negRate": 0.016408
+    }
+  ]
+}

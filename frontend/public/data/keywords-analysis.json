@@ -1,0 +1,421 @@
+{
+  "keywords": [
+    {
+      "aspect": "space",
+      "aspectCn": "空间",
+      "rank": 1,
+      "keyword": "局促",
+      "keywordRaw": "空间 不够",
+      "tfidfScore": 0.024532818856399175,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "space",
+      "aspectCn": "空间",
+      "rank": 2,
+      "keyword": "不便",
+      "keywordRaw": "不太 方便",
+      "tfidfScore": 0.021261292992251844,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "space",
+      "aspectCn": "空间",
+      "rank": 3,
+      "keyword": "不适",
+      "keywordRaw": "不太 舒服",
+      "tfidfScore": 0.014732748732330015,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "space",
+      "aspectCn": "空间",
+      "rank": 4,
+      "keyword": "顶头",
+      "keywordRaw": "顶头",
+      "tfidfScore": 0.005501697866616235,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "driving",
+      "aspectCn": "驾驶感受",
+      "rank": 1,
+      "keyword": "颠簸",
+      "keywordRaw": "路面 颠簸",
+      "tfidfScore": 0.01173647024581265,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "driving",
+      "aspectCn": "驾驶感受",
+      "rank": 2,
+      "keyword": "偏硬",
+      "keywordRaw": "减震 偏硬",
+      "tfidfScore": 0.010966853440883453,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "driving",
+      "aspectCn": "驾驶感受",
+      "rank": 3,
+      "keyword": "噪音",
+      "keywordRaw": "胎噪 风噪",
+      "tfidfScore": 0.009127898064049594,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "driving",
+      "aspectCn": "驾驶感受",
+      "rank": 4,
+      "keyword": "顿挫",
+      "keywordRaw": "起来 顿挫",
+      "tfidfScore": 0.008146555904373954,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "driving",
+      "aspectCn": "驾驶感受",
+      "rank": 5,
+      "keyword": "乏力",
+      "keywordRaw": "动力 不太",
+      "tfidfScore": 0.00737469353537751,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "range",
+      "aspectCn": "续航",
+      "rank": 1,
+      "keyword": "掉电",
+      "keywordRaw": "高速 掉电",
+      "tfidfScore": 0.029679433696944132,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "range",
+      "aspectCn": "续航",
+      "rank": 2,
+      "keyword": "缩水",
+      "keywordRaw": "续航 不到",
+      "tfidfScore": 0.01872304491935936,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "range",
+      "aspectCn": "续航",
+      "rank": 3,
+      "keyword": "没电",
+      "keywordRaw": "没电",
+      "tfidfScore": 0.008040758763008781,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "appearance",
+      "aspectCn": "外观",
+      "rank": 1,
+      "keyword": "欠佳",
+      "keywordRaw": "成熟 老气",
+      "tfidfScore": 27.0,
+      "scoreType": "low_score_doc_support",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "interior",
+      "aspectCn": "内饰",
+      "rank": 1,
+      "keyword": "异味",
+      "keywordRaw": "内饰 异味",
+      "tfidfScore": 0.04704977872529024,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "interior",
+      "aspectCn": "内饰",
+      "rank": 2,
+      "keyword": "塑料",
+      "keywordRaw": "塑料 材质",
+      "tfidfScore": 0.009136318885120533,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "interior",
+      "aspectCn": "内饰",
+      "rank": 3,
+      "keyword": "老气",
+      "keywordRaw": "内饰 老气",
+      "tfidfScore": 0.004875008352611394,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "value",
+      "aspectCn": "性价比",
+      "rank": 1,
+      "keyword": "优惠少",
+      "keywordRaw": "优惠 力度 不够",
+      "tfidfScore": 21.0,
+      "scoreType": "low_score_doc_support",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "value",
+      "aspectCn": "性价比",
+      "rank": 2,
+      "keyword": "偏贵",
+      "keywordRaw": "性价比 不高",
+      "tfidfScore": 0.026873202682884616,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "smart",
+      "aspectCn": "智能化",
+      "rank": 1,
+      "keyword": "卡顿",
+      "keywordRaw": "出现 卡顿",
+      "tfidfScore": 0.04067670315663611,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    },
+    {
+      "aspect": "smart",
+      "aspectCn": "智能化",
+      "rank": 2,
+      "keyword": "断联",
+      "keywordRaw": "信号 不好",
+      "tfidfScore": 0.014945379924445395,
+      "scoreType": "contrastive_tfidf_ngram",
+      "keywordType": "negative_theme_phrase"
+    }
+  ],
+  "byAspect": {
+    "space": [
+      {
+        "aspect": "space",
+        "aspectCn": "空间",
+        "rank": 1,
+        "keyword": "局促",
+        "keywordRaw": "空间 不够",
+        "tfidfScore": 0.024532818856399175,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      },
+      {
+        "aspect": "space",
+        "aspectCn": "空间",
+        "rank": 2,
+        "keyword": "不便",
+        "keywordRaw": "不太 方便",
+        "tfidfScore": 0.021261292992251844,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      },
+      {
+        "aspect": "space",
+        "aspectCn": "空间",
+        "rank": 3,
+        "keyword": "不适",
+        "keywordRaw": "不太 舒服",
+        "tfidfScore": 0.014732748732330015,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      },
+      {
+        "aspect": "space",
+        "aspectCn": "空间",
+        "rank": 4,
+        "keyword": "顶头",
+        "keywordRaw": "顶头",
+        "tfidfScore": 0.005501697866616235,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      }
+    ],
+    "driving": [
+      {
+        "aspect": "driving",
+        "aspectCn": "驾驶感受",
+        "rank": 1,
+        "keyword": "颠簸",
+        "keywordRaw": "路面 颠簸",
+        "tfidfScore": 0.01173647024581265,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      },
+      {
+        "aspect": "driving",
+        "aspectCn": "驾驶感受",
+        "rank": 2,
+        "keyword": "偏硬",
+        "keywordRaw": "减震 偏硬",
+        "tfidfScore": 0.010966853440883453,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      },
+      {
+        "aspect": "driving",
+        "aspectCn": "驾驶感受",
+        "rank": 3,
+        "keyword": "噪音",
+        "keywordRaw": "胎噪 风噪",
+        "tfidfScore": 0.009127898064049594,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      },
+      {
+        "aspect": "driving",
+        "aspectCn": "驾驶感受",
+        "rank": 4,
+        "keyword": "顿挫",
+        "keywordRaw": "起来 顿挫",
+        "tfidfScore": 0.008146555904373954,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      },
+      {
+        "aspect": "driving",
+        "aspectCn": "驾驶感受",
+        "rank": 5,
+        "keyword": "乏力",
+        "keywordRaw": "动力 不太",
+        "tfidfScore": 0.00737469353537751,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      }
+    ],
+    "range": [
+      {
+        "aspect": "range",
+        "aspectCn": "续航",
+        "rank": 1,
+        "keyword": "掉电",
+        "keywordRaw": "高速 掉电",
+        "tfidfScore": 0.029679433696944132,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      },
+      {
+        "aspect": "range",
+        "aspectCn": "续航",
+        "rank": 2,
+        "keyword": "缩水",
+        "keywordRaw": "续航 不到",
+        "tfidfScore": 0.01872304491935936,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      },
+      {
+        "aspect": "range",
+        "aspectCn": "续航",
+        "rank": 3,
+        "keyword": "没电",
+        "keywordRaw": "没电",
+        "tfidfScore": 0.008040758763008781,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      }
+    ],
+    "appearance": [
+      {
+        "aspect": "appearance",
+        "aspectCn": "外观",
+        "rank": 1,
+        "keyword": "欠佳",
+        "keywordRaw": "成熟 老气",
+        "tfidfScore": 27.0,
+        "scoreType": "low_score_doc_support",
+        "keywordType": "negative_theme_phrase"
+      }
+    ],
+    "interior": [
+      {
+        "aspect": "interior",
+        "aspectCn": "内饰",
+        "rank": 1,
+        "keyword": "异味",
+        "keywordRaw": "内饰 异味",
+        "tfidfScore": 0.04704977872529024,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      },
+      {
+        "aspect": "interior",
+        "aspectCn": "内饰",
+        "rank": 2,
+        "keyword": "塑料",
+        "keywordRaw": "塑料 材质",
+        "tfidfScore": 0.009136318885120533,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      },
+      {
+        "aspect": "interior",
+        "aspectCn": "内饰",
+        "rank": 3,
+        "keyword": "老气",
+        "keywordRaw": "内饰 老气",
+        "tfidfScore": 0.004875008352611394,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      }
+    ],
+    "value": [
+      {
+        "aspect": "value",
+        "aspectCn": "性价比",
+        "rank": 1,
+        "keyword": "优惠少",
+        "keywordRaw": "优惠 力度 不够",
+        "tfidfScore": 21.0,
+        "scoreType": "low_score_doc_support",
+        "keywordType": "negative_theme_phrase"
+      },
+      {
+        "aspect": "value",
+        "aspectCn": "性价比",
+        "rank": 2,
+        "keyword": "偏贵",
+        "keywordRaw": "性价比 不高",
+        "tfidfScore": 0.026873202682884616,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      }
+    ],
+    "smart": [
+      {
+        "aspect": "smart",
+        "aspectCn": "智能化",
+        "rank": 1,
+        "keyword": "卡顿",
+        "keywordRaw": "出现 卡顿",
+        "tfidfScore": 0.04067670315663611,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      },
+      {
+        "aspect": "smart",
+        "aspectCn": "智能化",
+        "rank": 2,
+        "keyword": "断联",
+        "keywordRaw": "信号 不好",
+        "tfidfScore": 0.014945379924445395,
+        "scoreType": "contrastive_tfidf_ngram",
+        "keywordType": "negative_theme_phrase"
+      }
+    ]
+  },
+  "totalCount": 20
+}

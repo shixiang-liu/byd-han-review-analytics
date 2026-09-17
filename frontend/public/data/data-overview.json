@@ -1,0 +1,411 @@
+{
+  "sampleCount": 8424,
+  "reviewTimeline": [
+    {
+      "month": "2020-08",
+      "count": 16
+    },
+    {
+      "month": "2020-09",
+      "count": 19
+    },
+    {
+      "month": "2020-10",
+      "count": 21
+    },
+    {
+      "month": "2020-11",
+      "count": 27
+    },
+    {
+      "month": "2020-12",
+      "count": 31
+    },
+    {
+      "month": "2021-01",
+      "count": 28
+    },
+    {
+      "month": "2021-02",
+      "count": 17
+    },
+    {
+      "month": "2021-03",
+      "count": 31
+    },
+    {
+      "month": "2021-04",
+      "count": 28
+    },
+    {
+      "month": "2021-05",
+      "count": 73
+    },
+    {
+      "month": "2021-06",
+      "count": 56
+    },
+    {
+      "month": "2021-07",
+      "count": 66
+    },
+    {
+      "month": "2021-08",
+      "count": 95
+    },
+    {
+      "month": "2021-09",
+      "count": 118
+    },
+    {
+      "month": "2021-10",
+      "count": 114
+    },
+    {
+      "month": "2021-11",
+      "count": 140
+    },
+    {
+      "month": "2021-12",
+      "count": 132
+    },
+    {
+      "month": "2022-01",
+      "count": 92
+    },
+    {
+      "month": "2022-02",
+      "count": 64
+    },
+    {
+      "month": "2022-03",
+      "count": 172
+    },
+    {
+      "month": "2022-04",
+      "count": 217
+    },
+    {
+      "month": "2022-05",
+      "count": 223
+    },
+    {
+      "month": "2022-06",
+      "count": 291
+    },
+    {
+      "month": "2022-07",
+      "count": 412
+    },
+    {
+      "month": "2022-08",
+      "count": 228
+    },
+    {
+      "month": "2022-09",
+      "count": 321
+    },
+    {
+      "month": "2022-10",
+      "count": 284
+    },
+    {
+      "month": "2022-11",
+      "count": 236
+    },
+    {
+      "month": "2022-12",
+      "count": 105
+    },
+    {
+      "month": "2023-01",
+      "count": 77
+    },
+    {
+      "month": "2023-02",
+      "count": 71
+    },
+    {
+      "month": "2023-03",
+      "count": 82
+    },
+    {
+      "month": "2023-04",
+      "count": 72
+    },
+    {
+      "month": "2023-05",
+      "count": 235
+    },
+    {
+      "month": "2023-06",
+      "count": 103
+    },
+    {
+      "month": "2023-07",
+      "count": 150
+    },
+    {
+      "month": "2023-08",
+      "count": 240
+    },
+    {
+      "month": "2023-09",
+      "count": 84
+    },
+    {
+      "month": "2023-10",
+      "count": 44
+    },
+    {
+      "month": "2023-11",
+      "count": 20
+    },
+    {
+      "month": "2023-12",
+      "count": 22
+    },
+    {
+      "month": "2024-01",
+      "count": 33
+    },
+    {
+      "month": "2024-02",
+      "count": 21
+    },
+    {
+      "month": "2024-03",
+      "count": 48
+    },
+    {
+      "month": "2024-04",
+      "count": 84
+    },
+    {
+      "month": "2024-05",
+      "count": 52
+    },
+    {
+      "month": "2024-06",
+      "count": 110
+    },
+    {
+      "month": "2024-07",
+      "count": 206
+    },
+    {
+      "month": "2024-08",
+      "count": 700
+    },
+    {
+      "month": "2024-09",
+      "count": 236
+    },
+    {
+      "month": "2024-10",
+      "count": 247
+    },
+    {
+      "month": "2024-11",
+      "count": 145
+    },
+    {
+      "month": "2024-12",
+      "count": 200
+    },
+    {
+      "month": "2025-01",
+      "count": 78
+    },
+    {
+      "month": "2025-02",
+      "count": 198
+    },
+    {
+      "month": "2025-03",
+      "count": 235
+    },
+    {
+      "month": "2025-04",
+      "count": 547
+    },
+    {
+      "month": "2025-05",
+      "count": 54
+    },
+    {
+      "month": "2025-06",
+      "count": 61
+    },
+    {
+      "month": "2025-07",
+      "count": 52
+    },
+    {
+      "month": "2025-08",
+      "count": 39
+    },
+    {
+      "month": "2025-09",
+      "count": 71
+    },
+    {
+      "month": "2025-10",
+      "count": 62
+    },
+    {
+      "month": "2025-11",
+      "count": 38
+    },
+    {
+      "month": "2025-12",
+      "count": 28
+    },
+    {
+      "month": "2026-01",
+      "count": 14
+    },
+    {
+      "month": "2026-02",
+      "count": 8
+    }
+  ],
+  "modelBreakdown": [
+    {
+      "label": "汉 2020款 EV 超长续航版豪华型",
+      "count": 1140
+    },
+    {
+      "label": "汉 2022款 DM-i 121KM 尊享型",
+      "count": 1139
+    },
+    {
+      "label": "汉 2021款 EV 标准续航版豪华型",
+      "count": 616
+    },
+    {
+      "label": "汉 2025款 EV 605KM尊贵型",
+      "count": 480
+    },
+    {
+      "label": "汉 2025款 DM-i 125KM尊荣型",
+      "count": 390
+    },
+    {
+      "label": "汉 2020款 EV 超长续航版豪华型认证",
+      "count": 372
+    },
+    {
+      "label": "汉 2024款 DM-i 荣耀版 121KM 尊荣型",
+      "count": 285
+    },
+    {
+      "label": "汉 2024款 DM-i 荣耀版 121KM 尊享型",
+      "count": 267
+    }
+  ],
+  "cityBreakdown": [
+    {
+      "label": "上海",
+      "count": 288
+    },
+    {
+      "label": "广州",
+      "count": 230
+    },
+    {
+      "label": "成都",
+      "count": 227
+    },
+    {
+      "label": "杭州",
+      "count": 216
+    },
+    {
+      "label": "重庆",
+      "count": 197
+    },
+    {
+      "label": "北京",
+      "count": 187
+    },
+    {
+      "label": "合肥",
+      "count": 132
+    },
+    {
+      "label": "南京",
+      "count": 132
+    },
+    {
+      "label": "佛山",
+      "count": 126
+    },
+    {
+      "label": "苏州",
+      "count": 120
+    }
+  ],
+  "priceBreakdown": [
+    {
+      "label": "20万以下",
+      "count": 2965
+    },
+    {
+      "label": "20-25万",
+      "count": 4979
+    },
+    {
+      "label": "25-30万",
+      "count": 433
+    },
+    {
+      "label": "30万以上",
+      "count": 46
+    }
+  ],
+  "scoreCoverage": [
+    {
+      "aspect": "space",
+      "aspectCn": "空间",
+      "count": 8423,
+      "share": 0.9999
+    },
+    {
+      "aspect": "driving",
+      "aspectCn": "驾驶感受",
+      "count": 8423,
+      "share": 0.9999
+    },
+    {
+      "aspect": "range",
+      "aspectCn": "续航",
+      "count": 8423,
+      "share": 0.9999
+    },
+    {
+      "aspect": "appearance",
+      "aspectCn": "外观",
+      "count": 8424,
+      "share": 1.0
+    },
+    {
+      "aspect": "interior",
+      "aspectCn": "内饰",
+      "count": 8424,
+      "share": 1.0
+    },
+    {
+      "aspect": "value",
+      "aspectCn": "性价比",
+      "count": 8424,
+      "share": 1.0
+    },
+    {
+      "aspect": "smart",
+      "aspectCn": "智能化",
+      "count": 5838,
+      "share": 0.693
+    }
+  ]
+}

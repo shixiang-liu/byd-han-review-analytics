@@ -1,0 +1,81 @@
+{
+  "items": [
+    {
+      "aspect": "space",
+      "aspectCn": "空间",
+      "scoreMean": 4.815880185427315,
+      "sentimentMean": 0.9825178862493525,
+      "nScore": 8413,
+      "nSentiment": 8306,
+      "scoreNorm": 0.6604500412674572,
+      "sentimentNorm": 0.8948320937283928,
+      "performance": 0.777641067497925
+    },
+    {
+      "aspect": "driving",
+      "aspectCn": "驾驶感受",
+      "scoreMean": 4.760014263639605,
+      "sentimentMean": 0.9847231970852942,
+      "nScore": 8413,
+      "nSentiment": 8264,
+      "scoreNorm": 0.4237224129275833,
+      "sentimentNorm": 1.0,
+      "performance": 0.7118612064637917
+    },
+    {
+      "aspect": "range",
+      "aspectCn": "续航",
+      "scoreMean": 4.794365862355878,
+      "sentimentMean": 0.9637537691093657,
+      "nScore": 8413,
+      "nSentiment": 8243,
+      "scoreNorm": 0.569284720566358,
+      "sentimentNorm": 0.0,
+      "performance": 0.284642360283179
+    },
+    {
+      "aspect": "appearance",
+      "aspectCn": "外观",
+      "scoreMean": 4.896011396011396,
+      "sentimentMean": 0.9845395589084207,
+      "nScore": 8424,
+      "nSentiment": 8312,
+      "scoreNorm": 1.0,
+      "sentimentNorm": 0.9912425757591334,
+      "performance": 0.9956212878795667
+    },
+    {
+      "aspect": "interior",
+      "aspectCn": "内饰",
+      "scoreMean": 4.660018993352327,
+      "sentimentMean": 0.9744541910975169,
+      "nScore": 8424,
+      "nSentiment": 8347,
+      "scoreNorm": 0.0,
+      "sentimentNorm": 0.5102867851442827,
+      "performance": 0.25514339257214136
+    },
+    {
+      "aspect": "value",
+      "aspectCn": "性价比",
+      "scoreMean": 4.809448818897637,
+      "sentimentMean": 0.9646708380938009,
+      "nScore": 6985,
+      "nSentiment": 8265,
+      "scoreNorm": 0.6331976108620216,
+      "sentimentNorm": 0.0437336195096955,
+      "performance": 0.33846561518585855
+    },
+    {
+      "aspect": "smart",
+      "aspectCn": "智能化",
+      "scoreMean": 4.830870652421004,
+      "sentimentMean": 0.9795159351977144,
+      "nScore": 4399,
+      "nSentiment": 5668,
+      "scoreNorm": 0.7239710140817616,
+      "sentimentNorm": 0.7516736320343408,
+      "performance": 0.7378223230580512
+    }
+  ]
+}

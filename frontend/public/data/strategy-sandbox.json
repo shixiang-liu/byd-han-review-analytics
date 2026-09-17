@@ -1,0 +1,133 @@
+{
+  "priorityActions": [
+    {
+      "aspect": "interior",
+      "aspectCn": "内饰",
+      "priorityRank": 1,
+      "action": "【紧急】需要重点投入资源改进，这些维度对用户满意度影响大但表现差",
+      "keywords": [
+        "异味",
+        "塑料",
+        "老气"
+      ]
+    },
+    {
+      "aspect": "range",
+      "aspectCn": "续航",
+      "priorityRank": 2,
+      "action": "【紧急】需要重点投入资源改进，这些维度对用户满意度影响大但表现差",
+      "keywords": [
+        "掉电",
+        "缩水",
+        "没电"
+      ]
+    },
+    {
+      "aspect": "value",
+      "aspectCn": "性价比",
+      "priorityRank": 3,
+      "action": "【紧急】需要重点投入资源改进，这些维度对用户满意度影响大但表现差",
+      "keywords": [
+        "优惠少",
+        "偏贵"
+      ]
+    }
+  ],
+  "segmentComparisons": {
+    "powertrain": [
+      {
+        "segment": "DM-i",
+        "sampleSize": 4259,
+        "space": 4.8152,
+        "driving": 4.7243,
+        "range": 4.8077,
+        "appearance": 4.8972,
+        "interior": 4.6574,
+        "value": 4.7938,
+        "smart": 4.8286
+      },
+      {
+        "segment": "DM-p",
+        "sampleSize": 221,
+        "space": 4.8416,
+        "driving": 4.8597,
+        "range": 4.7964,
+        "appearance": 4.9367,
+        "interior": 4.8145,
+        "value": 4.8552,
+        "smart": 4.8839
+      },
+      {
+        "segment": "EV",
+        "sampleSize": 3866,
+        "space": 4.8163,
+        "driving": 4.7917,
+        "range": 4.7777,
+        "appearance": 4.8939,
+        "interior": 4.6526,
+        "value": 4.8042,
+        "smart": 4.8291
+      },
+      {
+        "segment": "Other",
+        "sampleSize": 78,
+        "space": 4.7436,
+        "driving": 4.859,
+        "range": 4.8077,
+        "appearance": 4.8205,
+        "interior": 4.7308,
+        "value": 4.8333,
+        "smart": 5.0
+      }
+    ],
+    "cityTier": [
+      {
+        "segment": "一线城市",
+        "sampleSize": 812,
+        "range": 4.7562,
+        "value": 4.8103,
+        "smart": 4.8067
+      },
+      {
+        "segment": "二三线及其他",
+        "sampleSize": 5723,
+        "range": 4.8025,
+        "value": 4.8024,
+        "smart": 4.8489
+      },
+      {
+        "segment": "新一线城市",
+        "sampleSize": 1889,
+        "range": 4.783,
+        "value": 4.7909,
+        "smart": 4.7827
+      }
+    ],
+    "priceRange": [
+      {
+        "segment": "20万以下",
+        "sampleSize": 2973,
+        "value": 4.8079,
+        "interior": 4.6276
+      },
+      {
+        "segment": "20-25万",
+        "sampleSize": 4973,
+        "value": 4.7993,
+        "interior": 4.6724
+      },
+      {
+        "segment": "25-30万",
+        "sampleSize": 433,
+        "value": 4.7667,
+        "interior": 4.7275
+      },
+      {
+        "segment": "30万以上",
+        "sampleSize": 44,
+        "value": 4.7727,
+        "interior": 4.7727
+      }
+    ]
+  }
+}

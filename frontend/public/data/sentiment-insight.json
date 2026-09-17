@@ -1,0 +1,900 @@
+{
+  "overallSentiment": {
+    "positiveMean": 0.9874,
+    "negativeMean": 0.7224
+  },
+  "aspectSentiment": [
+    {
+      "aspect": "space",
+      "aspectCn": "空间",
+      "performance": 0.7776,
+      "sentimentMean": 0.9825,
+      "scoreMean": 4.8159,
+      "nSentiment": 8306
+    },
+    {
+      "aspect": "driving",
+      "aspectCn": "驾驶感受",
+      "performance": 0.7119,
+      "sentimentMean": 0.9847,
+      "scoreMean": 4.76,
+      "nSentiment": 8264
+    },
+    {
+      "aspect": "range",
+      "aspectCn": "续航",
+      "performance": 0.2846,
+      "sentimentMean": 0.9638,
+      "scoreMean": 4.7944,
+      "nSentiment": 8243
+    },
+    {
+      "aspect": "appearance",
+      "aspectCn": "外观",
+      "performance": 0.9956,
+      "sentimentMean": 0.9845,
+      "scoreMean": 4.896,
+      "nSentiment": 8312
+    },
+    {
+      "aspect": "interior",
+      "aspectCn": "内饰",
+      "performance": 0.2551,
+      "sentimentMean": 0.9745,
+      "scoreMean": 4.66,
+      "nSentiment": 8347
+    },
+    {
+      "aspect": "value",
+      "aspectCn": "性价比",
+      "performance": 0.3385,
+      "sentimentMean": 0.9647,
+      "scoreMean": 4.8094,
+      "nSentiment": 8265
+    },
+    {
+      "aspect": "smart",
+      "aspectCn": "智能化",
+      "performance": 0.7378,
+      "sentimentMean": 0.9795,
+      "scoreMean": 4.8309,
+      "nSentiment": 5668
+    }
+  ],
+  "monthlyTrend": [
+    {
+      "month": "2020-08",
+      "space": 5.0,
+      "driving": 5.0,
+      "range": 4.8125,
+      "appearance": 5.0,
+      "interior": 4.75,
+      "value": 4.875,
+      "smart": null
+    },
+    {
+      "month": "2020-09",
+      "space": 4.7895,
+      "driving": 4.9474,
+      "range": 4.8421,
+      "appearance": 4.8947,
+      "interior": 4.6842,
+      "value": 4.7895,
+      "smart": null
+    },
+    {
+      "month": "2020-10",
+      "space": 4.9524,
+      "driving": 4.7619,
+      "range": 4.5714,
+      "appearance": 5.0,
+      "interior": 4.9048,
+      "value": 4.9048,
+      "smart": null
+    },
+    {
+      "month": "2020-11",
+      "space": 4.9259,
+      "driving": 5.0,
+      "range": 4.8519,
+      "appearance": 4.8889,
+      "interior": 4.8519,
+      "value": 4.963,
+      "smart": null
+    },
+    {
+      "month": "2020-12",
+      "space": 4.871,
+      "driving": 4.7097,
+      "range": 4.5806,
+      "appearance": 4.9355,
+      "interior": 4.871,
+      "value": 4.8065,
+      "smart": null
+    },
+    {
+      "month": "2021-01",
+      "space": 4.8929,
+      "driving": 4.9286,
+      "range": 4.8214,
+      "appearance": 4.8571,
+      "interior": 4.6786,
+      "value": 4.9286,
+      "smart": null
+    },
+    {
+      "month": "2021-02",
+      "space": 4.8235,
+      "driving": 4.5294,
+      "range": 4.2353,
+      "appearance": 4.8824,
+      "interior": 4.7059,
+      "value": 4.5882,
+      "smart": null
+    },
+    {
+      "month": "2021-03",
+      "space": 4.9355,
+      "driving": 4.9032,
+      "range": 4.5806,
+      "appearance": 5.0,
+      "interior": 4.9677,
+      "value": 4.7097,
+      "smart": null
+    },
+    {
+      "month": "2021-04",
+      "space": 4.9286,
+      "driving": 4.9286,
+      "range": 4.8214,
+      "appearance": 4.9286,
+      "interior": 4.7857,
+      "value": 5.0,
+      "smart": null
+    },
+    {
+      "month": "2021-05",
+      "space": 4.7671,
+      "driving": 4.8356,
+      "range": 4.6164,
+      "appearance": 5.0,
+      "interior": 4.6712,
+      "value": 4.7671,
+      "smart": null
+    },
+    {
+      "month": "2021-06",
+      "space": 4.8727,
+      "driving": 4.8,
+      "range": 4.6909,
+      "appearance": 4.9643,
+      "interior": 4.8036,
+      "value": 4.7679,
+      "smart": null
+    },
+    {
+      "month": "2021-07",
+      "space": 4.803,
+      "driving": 4.7727,
+      "range": 4.8333,
+      "appearance": 4.9242,
+      "interior": 4.7273,
+      "value": 4.8333,
+      "smart": null
+    },
+    {
+      "month": "2021-08",
+      "space": 4.9053,
+      "driving": 4.8737,
+      "range": 4.6632,
+      "appearance": 4.9368,
+      "interior": 4.7053,
+      "value": 4.7368,
+      "smart": null
+    },
+    {
+      "month": "2021-09",
+      "space": 4.8814,
+      "driving": 4.8729,
+      "range": 4.7712,
+      "appearance": 4.9746,
+      "interior": 4.7119,
+      "value": 4.8983,
+      "smart": null
+    },
+    {
+      "month": "2021-10",
+      "space": 4.7719,
+      "driving": 4.8509,
+      "range": 4.9211,
+      "appearance": 4.9211,
+      "interior": 4.693,
+      "value": 4.9825,
+      "smart": null
+    },
+    {
+      "month": "2021-11",
+      "space": 4.8357,
+      "driving": 4.9071,
+      "range": 4.8429,
+      "appearance": 4.8643,
+      "interior": 4.6643,
+      "value": 4.9357,
+      "smart": null
+    },
+    {
+      "month": "2021-12",
+      "space": 4.803,
+      "driving": 4.9091,
+      "range": 4.6288,
+      "appearance": 4.9318,
+      "interior": 4.7348,
+      "value": 4.8939,
+      "smart": null
+    },
+    {
+      "month": "2022-01",
+      "space": 4.8152,
+      "driving": 4.7935,
+      "range": 4.6196,
+      "appearance": 4.9022,
+      "interior": 4.6087,
+      "value": 4.913,
+      "smart": null
+    },
+    {
+      "month": "2022-02",
+      "space": 4.8125,
+      "driving": 4.8125,
+      "range": 4.5781,
+      "appearance": 5.0,
+      "interior": 4.7969,
+      "value": 4.6875,
+      "smart": null
+    },
+    {
+      "month": "2022-03",
+      "space": 4.843,
+      "driving": 4.9244,
+      "range": 4.7442,
+      "appearance": 4.9012,
+      "interior": 4.6221,
+      "value": 4.7907,
+      "smart": null
+    },
+    {
+      "month": "2022-04",
+      "space": 4.8065,
+      "driving": 4.8341,
+      "range": 4.7373,
+      "appearance": 4.8756,
+      "interior": 4.6682,
+      "value": 4.8111,
+      "smart": null
+    },
+    {
+      "month": "2022-05",
+      "space": 4.7892,
+      "driving": 4.8296,
+      "range": 4.7444,
+      "appearance": 4.9462,
+      "interior": 4.713,
+      "value": 4.87,
+      "smart": null
+    },
+    {
+      "month": "2022-06",
+      "space": 4.7629,
+      "driving": 4.7629,
+      "range": 4.7766,
+      "appearance": 4.866,
+      "interior": 4.6289,
+      "value": 4.7148,
+      "smart": null
+    },
+    {
+      "month": "2022-07",
+      "space": 4.8641,
+      "driving": 4.8422,
+      "range": 4.8374,
+      "appearance": 4.932,
+      "interior": 4.6893,
+      "value": 4.8204,
+      "smart": 4.7581
+    },
+    {
+      "month": "2022-08",
+      "space": 4.7412,
+      "driving": 4.7544,
+      "range": 4.807,
+      "appearance": 4.8816,
+      "interior": 4.6053,
+      "value": 4.7237,
+      "smart": 4.8087
+    },
+    {
+      "month": "2022-09",
+      "space": 4.8224,
+      "driving": 4.785,
+      "range": 4.8224,
+      "appearance": 4.9097,
+      "interior": 4.7009,
+      "value": 4.8349,
+      "smart": 4.8848
+    },
+    {
+      "month": "2022-10",
+      "space": 4.831,
+      "driving": 4.7394,
+      "range": 4.8627,
+      "appearance": 4.9085,
+      "interior": 4.7254,
+      "value": 4.7676,
+      "smart": 4.8398
+    },
+    {
+      "month": "2022-11",
+      "space": 4.8093,
+      "driving": 4.7458,
+      "range": 4.7924,
+      "appearance": 4.8941,
+      "interior": 4.7203,
+      "value": 4.8136,
+      "smart": 4.8091
+    },
+    {
+      "month": "2022-12",
+      "space": 4.819,
+      "driving": 4.7238,
+      "range": 4.7714,
+      "appearance": 4.9238,
+      "interior": 4.6952,
+      "value": 4.7524,
+      "smart": 4.8544
+    },
+    {
+      "month": "2023-01",
+      "space": 4.7662,
+      "driving": 4.7013,
+      "range": 4.7403,
+      "appearance": 4.8961,
+      "interior": 4.6753,
+      "value": 4.7792,
+      "smart": 4.7922
+    },
+    {
+      "month": "2023-02",
+      "space": 4.831,
+      "driving": 4.7042,
+      "range": 4.7042,
+      "appearance": 4.9296,
+      "interior": 4.7465,
+      "value": 4.8451,
+      "smart": 4.9104
+    },
+    {
+      "month": "2023-03",
+      "space": 4.8171,
+      "driving": 4.7561,
+      "range": 4.6341,
+      "appearance": 4.9268,
+      "interior": 4.7561,
+      "value": 4.7073,
+      "smart": 4.7692
+    },
+    {
+      "month": "2023-04",
+      "space": 4.75,
+      "driving": 4.75,
+      "range": 4.7361,
+      "appearance": 4.9167,
+      "interior": 4.625,
+      "value": 4.7917,
+      "smart": 4.8472
+    },
+    {
+      "month": "2023-05",
+      "space": 4.8809,
+      "driving": 4.6596,
+      "range": 4.8383,
+      "appearance": 4.8979,
+      "interior": 4.6979,
+      "value": 4.783,
+      "smart": 4.9319
+    },
+    {
+      "month": "2023-06",
+      "space": 4.767,
+      "driving": 4.6311,
+      "range": 4.6602,
+      "appearance": 4.8447,
+      "interior": 4.6505,
+      "value": 4.8058,
+      "smart": 4.7835
+    },
+    {
+      "month": "2023-07",
+      "space": 4.8067,
+      "driving": 4.7067,
+      "range": 4.7533,
+      "appearance": 4.9267,
+      "interior": 4.5667,
+      "value": 4.7867,
+      "smart": 4.8904
+    },
+    {
+      "month": "2023-08",
+      "space": 4.8708,
+      "driving": 4.6708,
+      "range": 4.8125,
+      "appearance": 4.8917,
+      "interior": 4.65,
+      "value": 4.7542,
+      "smart": 4.8814
+    },
+    {
+      "month": "2023-09",
+      "space": 4.869,
+      "driving": 4.5595,
+      "range": 4.8452,
+      "appearance": 4.9286,
+      "interior": 4.619,
+      "value": 4.8095,
+      "smart": 4.8214
+    },
+    {
+      "month": "2023-10",
+      "space": 4.75,
+      "driving": 4.5909,
+      "range": 4.6136,
+      "appearance": 4.8409,
+      "interior": 4.75,
+      "value": 4.6364,
+      "smart": 4.8182
+    },
+    {
+      "month": "2023-11",
+      "space": 4.9,
+      "driving": 4.6,
+      "range": 4.8,
+      "appearance": 4.95,
+      "interior": 4.95,
+      "value": 4.7,
+      "smart": 4.95
+    },
+    {
+      "month": "2023-12",
+      "space": 4.7727,
+      "driving": 4.7727,
+      "range": 4.6818,
+      "appearance": 4.9545,
+      "interior": 4.6818,
+      "value": 4.6818,
+      "smart": 4.7273
+    },
+    {
+      "month": "2024-01",
+      "space": 4.8182,
+      "driving": 4.7879,
+      "range": 4.5455,
+      "appearance": 4.9091,
+      "interior": 4.6364,
+      "value": 4.5758,
+      "smart": 4.7273
+    },
+    {
+      "month": "2024-02",
+      "space": 4.8571,
+      "driving": 4.6667,
+      "range": 4.9048,
+      "appearance": 4.9524,
+      "interior": 4.7619,
+      "value": 4.8095,
+      "smart": 4.8571
+    },
+    {
+      "month": "2024-03",
+      "space": 4.9167,
+      "driving": 4.8333,
+      "range": 4.7917,
+      "appearance": 4.875,
+      "interior": 4.7708,
+      "value": 4.5833,
+      "smart": 4.8542
+    },
+    {
+      "month": "2024-04",
+      "space": 4.7857,
+      "driving": 4.6548,
+      "range": 4.7857,
+      "appearance": 4.9286,
+      "interior": 4.75,
+      "value": 4.8095,
+      "smart": 4.881
+    },
+    {
+      "month": "2024-05",
+      "space": 4.8846,
+      "driving": 4.7115,
+      "range": 4.8846,
+      "appearance": 4.9808,
+      "interior": 4.6538,
+      "value": 4.8462,
+      "smart": 4.9615
+    },
+    {
+      "month": "2024-06",
+      "space": 4.8182,
+      "driving": 4.5909,
+      "range": 4.8727,
+      "appearance": 4.9273,
+      "interior": 4.5727,
+      "value": 4.8182,
+      "smart": 4.8091
+    },
+    {
+      "month": "2024-07",
+      "space": 4.7087,
+      "driving": 4.767,
+      "range": 4.8981,
+      "appearance": 4.9417,
+      "interior": 4.6553,
+      "value": 4.7913,
+      "smart": 4.8447
+    },
+    {
+      "month": "2024-08",
+      "space": 4.7943,
+      "driving": 4.7129,
+      "range": 4.8371,
+      "appearance": 4.8643,
+      "interior": 4.6,
+      "value": 4.86,
+      "smart": 4.84
+    },
+    {
+      "month": "2024-09",
+      "space": 4.8898,
+      "driving": 4.7288,
+      "range": 4.8559,
+      "appearance": 4.9661,
+      "interior": 4.6186,
+      "value": 4.7119,
+      "smart": 4.8602
+    },
+    {
+      "month": "2024-10",
+      "space": 4.7976,
+      "driving": 4.8057,
+      "range": 4.8583,
+      "appearance": 4.919,
+      "interior": 4.5749,
+      "value": 4.8219,
+      "smart": 4.8785
+    },
+    {
+      "month": "2024-11",
+      "space": 4.7655,
+      "driving": 4.7586,
+      "range": 4.9241,
+      "appearance": 4.9448,
+      "interior": 4.5517,
+      "value": 4.8138,
+      "smart": 4.8897
+    },
+    {
+      "month": "2024-12",
+      "space": 4.81,
+      "driving": 4.725,
+      "range": 4.815,
+      "appearance": 4.885,
+      "interior": 4.615,
+      "value": 4.815,
+      "smart": 4.765
+    },
+    {
+      "month": "2025-01",
+      "space": 4.7949,
+      "driving": 4.6795,
+      "range": 4.7308,
+      "appearance": 4.9359,
+      "interior": 4.7179,
+      "value": 4.7821,
+      "smart": 4.7436
+    },
+    {
+      "month": "2025-02",
+      "space": 4.8737,
+      "driving": 4.7424,
+      "range": 4.904,
+      "appearance": 4.8586,
+      "interior": 4.7273,
+      "value": 4.9141,
+      "smart": 4.8081
+    },
+    {
+      "month": "2025-03",
+      "space": 4.8213,
+      "driving": 4.7702,
+      "range": 4.8553,
+      "appearance": 4.8723,
+      "interior": 4.6468,
+      "value": 4.8511,
+      "smart": 4.8085
+    },
+    {
+      "month": "2025-04",
+      "space": 4.7605,
+      "driving": 4.7916,
+      "range": 4.8245,
+      "appearance": 4.7623,
+      "interior": 4.6161,
+      "value": 4.7751,
+      "smart": 4.8227
+    },
+    {
+      "month": "2025-05",
+      "space": 4.6667,
+      "driving": 4.5556,
+      "range": 4.5741,
+      "appearance": 4.8519,
+      "interior": 4.4259,
+      "value": 4.537,
+      "smart": 4.4259
+    },
+    {
+      "month": "2025-06",
+      "space": 4.8361,
+      "driving": 4.6885,
+      "range": 4.6885,
+      "appearance": 4.8525,
+      "interior": 4.5738,
+      "value": 4.5902,
+      "smart": 4.623
+    },
+    {
+      "month": "2025-07",
+      "space": 4.8654,
+      "driving": 4.6923,
+      "range": 4.7692,
+      "appearance": 4.8654,
+      "interior": 4.5769,
+      "value": 4.6923,
+      "smart": 4.7308
+    },
+    {
+      "month": "2025-08",
+      "space": 4.8718,
+      "driving": 4.6923,
+      "range": 4.7692,
+      "appearance": 4.8974,
+      "interior": 4.7949,
+      "value": 4.8974,
+      "smart": 4.8205
+    },
+    {
+      "month": "2025-09",
+      "space": 4.8732,
+      "driving": 4.6761,
+      "range": 4.7606,
+      "appearance": 4.9296,
+      "interior": 4.6056,
+      "value": 4.7042,
+      "smart": 4.7606
+    },
+    {
+      "month": "2025-10",
+      "space": 4.8387,
+      "driving": 4.6613,
+      "range": 4.7258,
+      "appearance": 4.8548,
+      "interior": 4.5484,
+      "value": 4.7581,
+      "smart": 4.8871
+    },
+    {
+      "month": "2025-11",
+      "space": 4.8421,
+      "driving": 4.6316,
+      "range": 4.6842,
+      "appearance": 4.8158,
+      "interior": 4.7368,
+      "value": 4.7368,
+      "smart": 4.7632
+    },
+    {
+      "month": "2025-12",
+      "space": 4.9643,
+      "driving": 4.6786,
+      "range": 4.6429,
+      "appearance": 4.8214,
+      "interior": 4.4643,
+      "value": 4.75,
+      "smart": 4.7143
+    },
+    {
+      "month": "2026-01",
+      "space": 4.7857,
+      "driving": 4.6429,
+      "range": 4.0714,
+      "appearance": 4.5714,
+      "interior": 4.5,
+      "value": 4.2857,
+      "smart": 4.5
+    },
+    {
+      "month": "2026-02",
+      "space": 4.75,
+      "driving": 4.5,
+      "range": 4.375,
+      "appearance": 5.0,
+      "interior": 5.0,
+      "value": 4.625,
+      "smart": 4.625
+    }
+  ],
+  "negativeKeywords": [
+    {
+      "aspect": "space",
+      "aspectCn": "空间",
+      "keywords": [
+        {
+          "keyword": "局促",
+          "rank": 1,
+          "weight": 0.024533,
+          "keywordType": "negative_theme_phrase"
+        },
+        {
+          "keyword": "不便",
+          "rank": 2,
+          "weight": 0.021261,
+          "keywordType": "negative_theme_phrase"
+        },
+        {
+          "keyword": "不适",
+          "rank": 3,
+          "weight": 0.014733,
+          "keywordType": "negative_theme_phrase"
+        },
+        {
+          "keyword": "顶头",
+          "rank": 4,
+          "weight": 0.005502,
+          "keywordType": "negative_theme_phrase"
+        }
+      ]
+    },
+    {
+      "aspect": "driving",
+      "aspectCn": "驾驶感受",
+      "keywords": [
+        {
+          "keyword": "颠簸",
+          "rank": 1,
+          "weight": 0.011736,
+          "keywordType": "negative_theme_phrase"
+        },
+        {
+          "keyword": "偏硬",
+          "rank": 2,
+          "weight": 0.010967,
+          "keywordType": "negative_theme_phrase"
+        },
+        {
+          "keyword": "噪音",
+          "rank": 3,
+          "weight": 0.009128,
+          "keywordType": "negative_theme_phrase"
+        },
+        {
+          "keyword": "顿挫",
+          "rank": 4,
+          "weight": 0.008147,
+          "keywordType": "negative_theme_phrase"
+        },
+        {
+          "keyword": "乏力",
+          "rank": 5,
+          "weight": 0.007375,
+          "keywordType": "negative_theme_phrase"
+        }
+      ]
+    },
+    {
+      "aspect": "range",
+      "aspectCn": "续航",
+      "keywords": [
+        {
+          "keyword": "掉电",
+          "rank": 1,
+          "weight": 0.029679,
+          "keywordType": "negative_theme_phrase"
+        },
+        {
+          "keyword": "缩水",
+          "rank": 2,
+          "weight": 0.018723,
+          "keywordType": "negative_theme_phrase"
+        },
+        {
+          "keyword": "没电",
+          "rank": 3,
+          "weight": 0.008041,
+          "keywordType": "negative_theme_phrase"
+        }
+      ]
+    },
+    {
+      "aspect": "appearance",
+      "aspectCn": "外观",
+      "keywords": [
+        {
+          "keyword": "欠佳",
+          "rank": 1,
+          "weight": 27.0,
+          "keywordType": "negative_theme_phrase"
+        }
+      ]
+    },
+    {
+      "aspect": "interior",
+      "aspectCn": "内饰",
+      "keywords": [
+        {
+          "keyword": "异味",
+          "rank": 1,
+          "weight": 0.04705,
+          "keywordType": "negative_theme_phrase"
+        },
+        {
+          "keyword": "塑料",
+          "rank": 2,
+          "weight": 0.009136,
+          "keywordType": "negative_theme_phrase"
+        },
+        {
+          "keyword": "老气",
+          "rank": 3,
+          "weight": 0.004875,
+          "keywordType": "negative_theme_phrase"
+        }
+      ]
+    },
+    {
+      "aspect": "value",
+      "aspectCn": "性价比",
+      "keywords": [
+        {
+          "keyword": "优惠少",
+          "rank": 1,
+          "weight": 21.0,
+          "keywordType": "negative_theme_phrase"
+        },
+        {
+          "keyword": "偏贵",
+          "rank": 2,
+          "weight": 0.026873,
+          "keywordType": "negative_theme_phrase"
+        }
+      ]
+    },
+    {
+      "aspect": "smart",
+      "aspectCn": "智能化",
+      "keywords": [
+        {
+          "keyword": "卡顿",
+          "rank": 1,
+          "weight": 0.040677,
+          "keywordType": "negative_theme_phrase"
+        },
+        {
+          "keyword": "断联",
+          "rank": 2,
+          "weight": 0.014945,
+          "keywordType": "negative_theme_phrase"
+        }
+      ]
+    }
+  ]
+}

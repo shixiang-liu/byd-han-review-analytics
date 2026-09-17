@@ -1,0 +1,17 @@
+# Third-party dependencies, derived from the source imports (versions not pinned).
+# Install with: pip install -r requirements.txt
+
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+shap
+transformers
+torch
+jieba
+matplotlib
+seaborn
+wordcloud
+pillow
+openpyxl

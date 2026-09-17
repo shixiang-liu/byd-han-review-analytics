@@ -1,0 +1,95 @@
+{
+  "recommendations": [
+    {
+      "aspect": "interior",
+      "aspectCn": "内饰",
+      "quadrant": "Q2",
+      "quadrantName": "重点改进区",
+      "priorityRank": 1,
+      "recommendation": "【紧急】需要重点投入资源改进，这些维度对用户满意度影响大但表现差",
+      "keywords": [
+        "异味",
+        "塑料",
+        "老气"
+      ]
+    },
+    {
+      "aspect": "range",
+      "aspectCn": "续航",
+      "quadrant": "Q2",
+      "quadrantName": "重点改进区",
+      "priorityRank": 2,
+      "recommendation": "【紧急】需要重点投入资源改进，这些维度对用户满意度影响大但表现差",
+      "keywords": [
+        "掉电",
+        "缩水",
+        "没电"
+      ]
+    },
+    {
+      "aspect": "value",
+      "aspectCn": "性价比",
+      "quadrant": "Q2",
+      "quadrantName": "重点改进区",
+      "priorityRank": 3,
+      "recommendation": "【紧急】需要重点投入资源改进，这些维度对用户满意度影响大但表现差",
+      "keywords": [
+        "优惠少",
+        "偏贵"
+      ]
+    },
+    {
+      "aspect": "driving",
+      "aspectCn": "驾驶感受",
+      "quadrant": "Q1",
+      "quadrantName": "优势保持区",
+      "priorityRank": 4,
+      "recommendation": "继续保持现有水平，作为品牌竞争优势进行宣传",
+      "keywords": [
+        "颠簸",
+        "偏硬",
+        "噪音",
+        "顿挫",
+        "乏力"
+      ]
+    },
+    {
+      "aspect": "space",
+      "aspectCn": "空间",
+      "quadrant": "Q4",
+      "quadrantName": "过度投入区",
+      "priorityRank": 5,
+      "recommendation": "可考虑适当调整资源配置，将过度投入的资源转移到重点改进区",
+      "keywords": [
+        "局促",
+        "不便",
+        "不适",
+        "顶头"
+      ]
+    },
+    {
+      "aspect": "appearance",
+      "aspectCn": "外观",
+      "quadrant": "Q4",
+      "quadrantName": "过度投入区",
+      "priorityRank": 6,
+      "recommendation": "可考虑适当调整资源配置，将过度投入的资源转移到重点改进区",
+      "keywords": [
+        "欠佳"
+      ]
+    },
+    {
+      "aspect": "smart",
+      "aspectCn": "智能化",
+      "quadrant": "Q4",
+      "quadrantName": "过度投入区",
+      "priorityRank": 7,
+      "recommendation": "可考虑适当调整资源配置，将过度投入的资源转移到重点改进区",
+      "keywords": [
+        "卡顿",
+        "断联"
+      ]
+    }
+  ],
+  "totalCount": 7
+}

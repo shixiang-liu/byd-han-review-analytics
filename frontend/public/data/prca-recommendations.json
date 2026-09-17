@@ -1,0 +1,61 @@
+{
+  "recommendations": [
+    {
+      "aspect": "space",
+      "penaltyWeight": 0.6263319728541267,
+      "rewardWeight": 0.0,
+      "classification": "Hygiene (基础型)",
+      "performance": 4.815742609521548,
+      "doi": 0.0
+    },
+    {
+      "aspect": "driving",
+      "penaltyWeight": 0.7798192513438225,
+      "rewardWeight": 0.0,
+      "classification": "Hygiene (基础型)",
+      "performance": 4.760061735723614,
+      "doi": 0.0
+    },
+    {
+      "aspect": "range",
+      "penaltyWeight": 0.5281026358348924,
+      "rewardWeight": 0.0,
+      "classification": "Hygiene (基础型)",
+      "performance": 4.793660216075033,
+      "doi": 0.0
+    },
+    {
+      "aspect": "appearance",
+      "penaltyWeight": 0.47768765510157074,
+      "rewardWeight": 0.0,
+      "classification": "Hygiene (基础型)",
+      "performance": 4.896011396011396,
+      "doi": 0.0
+    },
+    {
+      "aspect": "interior",
+      "penaltyWeight": 0.8560749475521656,
+      "rewardWeight": 0.0,
+      "classification": "Hygiene (基础型)",
+      "performance": 4.660018993352327,
+      "doi": 0.0
+    },
+    {
+      "aspect": "value",
+      "penaltyWeight": 0.6139582751865913,
+      "rewardWeight": 0.0,
+      "classification": "Hygiene (基础型)",
+      "performance": 4.800569800569801,
+      "doi": 0.0
+    },
+    {
+      "aspect": "smart",
+      "penaltyWeight": 0.5312293315406452,
+      "rewardWeight": 0.0,
+      "classification": "Hygiene (基础型)",
+      "performance": 4.830592668722165,
+      "doi": 0.0
+    }
+  ],
+  "totalCount": 7
+}

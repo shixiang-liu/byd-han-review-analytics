@@ -1,0 +1,97 @@
+{
+  "projectName": "比亚迪 汉",
+  "sampleCount": 8424,
+  "analysisWindow": {
+    "startMonth": "2020-08",
+    "endMonth": "2026-02"
+  },
+  "priorityItems": [
+    "续航",
+    "内饰",
+    "性价比"
+  ],
+  "strengthItems": [
+    "驾驶感受"
+  ],
+  "scoreSnapshot": [
+    {
+      "aspect": "space",
+      "aspectCn": "空间",
+      "performance": 0.7776,
+      "sentimentMean": 0.9825
+    },
+    {
+      "aspect": "driving",
+      "aspectCn": "驾驶感受",
+      "performance": 0.7119,
+      "sentimentMean": 0.9847
+    },
+    {
+      "aspect": "range",
+      "aspectCn": "续航",
+      "performance": 0.2846,
+      "sentimentMean": 0.9638
+    },
+    {
+      "aspect": "appearance",
+      "aspectCn": "外观",
+      "performance": 0.9956,
+      "sentimentMean": 0.9845
+    },
+    {
+      "aspect": "interior",
+      "aspectCn": "内饰",
+      "performance": 0.2551,
+      "sentimentMean": 0.9745
+    },
+    {
+      "aspect": "value",
+      "aspectCn": "性价比",
+      "performance": 0.3385,
+      "sentimentMean": 0.9647
+    },
+    {
+      "aspect": "smart",
+      "aspectCn": "智能化",
+      "performance": 0.7378,
+      "sentimentMean": 0.9795
+    }
+  ],
+  "topEffects": [
+    {
+      "aspect": "interior",
+      "aspectCn": "内饰",
+      "theta": 0.14026829705067217,
+      "ciLower": 0.13902817417336807,
+      "ciUpper": 0.14150841992797628
+    },
+    {
+      "aspect": "driving",
+      "aspectCn": "驾驶感受",
+      "theta": 0.14023850741291324,
+      "ciLower": 0.1387999926194918,
+      "ciUpper": 0.14167702220633469
+    },
+    {
+      "aspect": "space",
+      "aspectCn": "空间",
+      "theta": 0.13925643415042765,
+      "ciLower": 0.13783231807114477,
+      "ciUpper": 0.14068055022971054
+    },
+    {
+      "aspect": "value",
+      "aspectCn": "性价比",
+      "theta": 0.13848106839562116,
+      "ciLower": 0.13698545254503183,
+      "ciUpper": 0.1399766842462105
+    },
+    {
+      "aspect": "range",
+      "aspectCn": "续航",
+      "theta": 0.13426651066269252,
+      "ciLower": 0.13275442459350142,
+      "ciUpper": 0.1357785967318836
+    }
+  ]
+}
